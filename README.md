@@ -1,2 +1,1 @@
-# prepcourse-henry
-Repositorio del modulo2 del precurso de henry
+Este es un proyecto de como clonar un repositorio de github a forma local para poder trabajar sobre el 
